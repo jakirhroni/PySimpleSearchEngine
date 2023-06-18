@@ -1,9 +1,9 @@
-A custome search engine project for submitting on Code In Place (CIP3), Stanford University.
-Submitted by Jakir Hossain. CIP email: jakirhroni@engineer.com
+##### A custome search engine project for submitting on Code In Place (CIP3), Stanford University.
+##### Submitted by Jakir Hossain. CIP email: jakirhroni@engineer.com
 
-Required Installation:
+##### Required Installation:
     * flask
     * requests
 
-Query is show using google api.
-The API and engine id was generated from demo mail.
+##### Query has been shown using google api.
+##### The API and engine id was generated from demo mail.
